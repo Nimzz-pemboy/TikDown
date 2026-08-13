@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/github/forks/Nimzz-pemboy/TikDown?style=flat-square&color=blue" alt="Forks">
   <img src="https://img.shields.io/github/issues/Nimzz-pemboy/TikDown?style=flat-square&color=red" alt="Issues">
   <img src="https://img.shields.io/github/last-commit/Nimzz-pemboy/TikDown?style=flat-square&color=informational" alt="Last Commit">
-  <img src="https://img.shields.io/github/repo-size/Nimzz-pemboy/TikDown?style=flat-square&color=purple" alt="Repo Size">
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
 </p>
 
@@ -259,4 +258,3 @@ Repository: [github.com/Nimzz-pemboy/TikDown](https://github.com/Nimzz-pemboy/Ti
 ## License
 
 Placeholder: MIT. Tambahkan file `LICENSE` sesuai kebutuhan Anda.
-# TikDown

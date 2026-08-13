@@ -5,7 +5,7 @@
  */
 export const siteConfig = {
   name: "TikDown",
-  url: "https://example.com",
+  url: "https://tik-down-rosy.vercel.app/",
   description:
     "TikDown membantu Anda mengambil metadata dan mengunduh media dari tautan TikTok publik: video, audio, dan photo post. Tanpa login.",
   tagline: "TikTok Downloader",
@@ -13,7 +13,7 @@ export const siteConfig = {
   logo: "/logo.png",
   favicon: "/favicon.png",
   /** Leave empty to hide the GitHub link. */
-  repoUrl: "https://github.com",
+  repoUrl: "https://github.com/Nimzz-pemboy/TikDown",
 } as const;
 
 export type SiteConfig = typeof siteConfig;
